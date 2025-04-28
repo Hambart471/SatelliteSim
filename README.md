@@ -10,8 +10,9 @@
 ---
 
 <p align="center">
-  **Скачать готовый ZIP с приложением можно на странице [Releases](https://github.com/Hambart471/SatelliteSim/releases).  
-  Выберите последний релиз и кликните по файлу `SatelliteSim-Win64.zip`.**
+  <strong>Скачать готовый ZIP с приложением можно на странице 
+  <a href="https://github.com/Hambart471/SatelliteSim/releases">Releases</a>. 
+  Выберите последний релиз и кликните по файлу <code>SatelliteSim-Win64.zip</code>.</strong>
 </p>
 
 ---
