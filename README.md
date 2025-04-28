@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Здесь можно добавить гифку с демонстрацией работы -->
-  <img src="docs/demo.gif" alt="Demo GIF" width="600"/>
+  <img src="SatelliteSim.gif" alt="Demo GIF" width="600"/>
 </p>
 
 ---
