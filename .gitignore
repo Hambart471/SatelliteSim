@@ -1,0 +1,16 @@
+# Qt Creator
+*.user
+*.pro.user
+*.autosave
+
+# Собранные файлы
+build/
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.app
+*.log
